@@ -16,7 +16,7 @@ const testEpisodeWithoutImage = {
     //Add in approprate test data structure here.
     id: 1,
     name:'',
-    image: null,
+    image: "",
     season: 1,
     number:1,
     summary:'Dude', 
